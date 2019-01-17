@@ -1,0 +1,35 @@
+body{
+color:green;
+font-weight:normal;
+margin: 20px;
+background-image:url(avengers.jpg);
+}
+h1,h2{padding:0;
+margin:0;
+
+}
+p{
+line-height:2em;
+font size:25 px;
+font family:Helvetica;
+}
+.blue{
+color:white;
+font size:25 px;
+font family:Helvetica;
+}
+p.para3{
+background color:#e5e4d7;
+color:white;
+margin:0;
+
+}
+p.para1{
+font-size:25px;
+padding:0;
+margin:0;
+}
+p.para2{
+font-size:25px;
+font-style:italic;
+}
